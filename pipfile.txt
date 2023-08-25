@@ -1,0 +1,10 @@
+[[source]]
+url ="https://127.0.0.1:7860"
+verify_ssl =true
+name = "pypi"
+
+[packages]
+flask="*"
+gradio
+
+[requires]
